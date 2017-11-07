@@ -1,0 +1,24 @@
+{
+  "name": "jsonpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-file": "^0.1.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt0857159/jsonPractice.git"
+  },
+  "author": "Kyle Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kt0857159/jsonPractice/issues"
+  },
+  "homepage": "https://github.com/kt0857159/jsonPractice#readme"
+}
